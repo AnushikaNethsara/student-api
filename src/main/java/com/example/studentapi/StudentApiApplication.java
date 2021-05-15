@@ -11,3 +11,10 @@ public class StudentApiApplication {
 	}
 
 }
+
+//Rest endpoints
+
+//create  a student
+//retrieve a student
+//delete a student
+//update a student
